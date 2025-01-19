@@ -1,0 +1,6 @@
+#content {
+    height: 80vh;         /* Set the desired height */
+    overflow-y: auto;      /* Enable vertical scroll when content overflows */
+    overflow-x: hidden;    /* Optional: Hide horizontal scrollbar if not needed */
+  }
+  
