@@ -1,0 +1,4994 @@
+{
+    "Episodes": [
+        {
+            "Series": "Arrow",
+            "Title": "Pilot",
+            "Season": "01",
+            "Episode": "01"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Honor Thy Father",
+            "Season": "01",
+            "Episode": "02"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Lone Gunmen",
+            "Season": "01",
+            "Episode": "03"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "An Innocent Man",
+            "Season": "01",
+            "Episode": "04"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Damaged",
+            "Season": "01",
+            "Episode": "05"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Legacies",
+            "Season": "01",
+            "Episode": "06"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Muse of Fire",
+            "Season": "01",
+            "Episode": "07"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Vendetta",
+            "Season": "01",
+            "Episode": "08"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Year's End",
+            "Season": "01",
+            "Episode": "09"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Burned",
+            "Season": "01",
+            "Episode": "10"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Trust but Verify",
+            "Season": "01",
+            "Episode": "11"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Vertigo",
+            "Season": "01",
+            "Episode": "12"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Betrayal",
+            "Season": "01",
+            "Episode": "13"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "The Odyssey",
+            "Season": "01",
+            "Episode": "14"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Dodger",
+            "Season": "01",
+            "Episode": "15"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Dead to Rights",
+            "Season": "01",
+            "Episode": "16"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "The Huntress Returns",
+            "Season": "01",
+            "Episode": "17"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Salvation",
+            "Season": "01",
+            "Episode": "18"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Unfinished Business",
+            "Season": "01",
+            "Episode": "19"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Home Invasion",
+            "Season": "01",
+            "Episode": "20"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "The Undertaking",
+            "Season": "01",
+            "Episode": "21"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Darkness on the Edge of Town",
+            "Season": "01",
+            "Episode": "22"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Sacrifice",
+            "Season": "01",
+            "Episode": "23"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "City of Heroes",
+            "Season": "02",
+            "Episode": "01"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Identity",
+            "Season": "02",
+            "Episode": "02"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Broken Dolls",
+            "Season": "02",
+            "Episode": "03"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Crucible",
+            "Season": "02",
+            "Episode": "04"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "League of Assassins",
+            "Season": "02",
+            "Episode": "05"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Keep Your Enemies Closer",
+            "Season": "02",
+            "Episode": "06"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "State v. Queen",
+            "Season": "02",
+            "Episode": "07"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "The Scientist",
+            "Season": "02",
+            "Episode": "08"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Three Ghosts",
+            "Season": "02",
+            "Episode": "09"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Blast Radius",
+            "Season": "02",
+            "Episode": "10"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Blind Spot",
+            "Season": "02",
+            "Episode": "11"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Tremors",
+            "Season": "02",
+            "Episode": "12"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Heir to the Demon",
+            "Season": "02",
+            "Episode": "13"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Time of Death",
+            "Season": "02",
+            "Episode": "14"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "The Promise",
+            "Season": "02",
+            "Episode": "15"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Suicide Squad",
+            "Season": "02",
+            "Episode": "16"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Birds of Prey",
+            "Season": "02",
+            "Episode": "17"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Deathstroke",
+            "Season": "02",
+            "Episode": "18"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "The Man Under the Hood",
+            "Season": "02",
+            "Episode": "19"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Seeing Red",
+            "Season": "02",
+            "Episode": "20"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "City of Blood",
+            "Season": "02",
+            "Episode": "21"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Streets of Fire",
+            "Season": "02",
+            "Episode": "22"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Unthinkable",
+            "Season": "02",
+            "Episode": "23"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Pilot",
+            "Season": "01",
+            "Episode": "01"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "The Calm",
+            "Season": "03",
+            "Episode": "01"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Fastest Man Alive",
+            "Season": "01",
+            "Episode": "02"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Sara",
+            "Season": "03",
+            "Episode": "02"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Things You Can't Outrun",
+            "Season": "01",
+            "Episode": "03"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Corto Maltese",
+            "Season": "03",
+            "Episode": "03"
+        },
+        {
+            "Series": "Constantine",
+            "Title": "Non Est Asylum",
+            "Season": "01",
+            "Episode": "01"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Going Rogue",
+            "Season": "01",
+            "Episode": "04"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "The Magician",
+            "Season": "03",
+            "Episode": "04"
+        },
+        {
+            "Series": "Constantine",
+            "Title": "The Darkness Beneath",
+            "Season": "01",
+            "Episode": "02"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "The Secret Origin of Felicity Smoak",
+            "Season": "03",
+            "Episode": "05"
+        },
+        {
+            "Series": "Constantine",
+            "Title": "The Devil's Vinyl",
+            "Season": "01",
+            "Episode": "03"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Plastique",
+            "Season": "01",
+            "Episode": "05"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Guilty",
+            "Season": "03",
+            "Episode": "06"
+        },
+        {
+            "Series": "Constantine",
+            "Title": "A Feast of Friends",
+            "Season": "01",
+            "Episode": "04"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "The Flash is Born",
+            "Season": "01",
+            "Episode": "06"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Draw Back Your Bow",
+            "Season": "03",
+            "Episode": "07"
+        },
+        {
+            "Series": "Constantine",
+            "Title": "Danse Vaudou",
+            "Season": "01",
+            "Episode": "05"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Power Outage",
+            "Season": "01",
+            "Episode": "07"
+        },
+        {
+            "Series": "Constantine",
+            "Title": "Rage of Caliban",
+            "Season": "01",
+            "Episode": "06"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Flash vs. Arrow",
+            "Season": "01",
+            "Episode": "08"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "The Brave and the Bold",
+            "Season": "03",
+            "Episode": "08"
+        },
+        {
+            "Series": "Constantine",
+            "Title": "Blessed Are the Damned",
+            "Season": "01",
+            "Episode": "07"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "The Man in the Yellow Suit",
+            "Season": "01",
+            "Episode": "09"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "The Climb",
+            "Season": "03",
+            "Episode": "09"
+        },
+        {
+            "Series": "Constantine",
+            "Title": "The Saint of Last Resorts",
+            "Season": "01",
+            "Episode": "08"
+        },
+        {
+            "Series": "Constantine",
+            "Title": "The Saint of Last Resorts: Part 2",
+            "Season": "01",
+            "Episode": "09"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Revenge of the Rogues",
+            "Season": "01",
+            "Episode": "10"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Left Behind",
+            "Season": "03",
+            "Episode": "10"
+        },
+        {
+            "Series": "Constantine",
+            "Title": "Quid Pro Quo",
+            "Season": "01",
+            "Episode": "10"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "The Sound and the Fury",
+            "Season": "01",
+            "Episode": "11"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Midnight City",
+            "Season": "03",
+            "Episode": "11"
+        },
+        {
+            "Series": "Constantine",
+            "Title": "A Whole World Out There",
+            "Season": "01",
+            "Episode": "11"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Crazy for You",
+            "Season": "01",
+            "Episode": "12"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Uprising",
+            "Season": "03",
+            "Episode": "12"
+        },
+        {
+            "Series": "Constantine",
+            "Title": "Angels and Ministers of Grace",
+            "Season": "01",
+            "Episode": "12"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "The Nuclear Man",
+            "Season": "01",
+            "Episode": "13"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Canaries",
+            "Season": "03",
+            "Episode": "13"
+        },
+        {
+            "Series": "Constantine",
+            "Title": "Waiting for the Man",
+            "Season": "01",
+            "Episode": "13"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Fallout",
+            "Season": "01",
+            "Episode": "14"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "The Return",
+            "Season": "03",
+            "Episode": "14"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Nanda Parbat",
+            "Season": "03",
+            "Episode": "15"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Out of Time",
+            "Season": "01",
+            "Episode": "15"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "The Offer",
+            "Season": "03",
+            "Episode": "16"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Rogue Time",
+            "Season": "01",
+            "Episode": "16"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Suicidal Tendencies",
+            "Season": "03",
+            "Episode": "17"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Tricksters",
+            "Season": "01",
+            "Episode": "17"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Public Enemy",
+            "Season": "03",
+            "Episode": "18"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "All Star Team Up",
+            "Season": "01",
+            "Episode": "18"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Broken Arrow",
+            "Season": "03",
+            "Episode": "19"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Who is Harrison Wells?",
+            "Season": "01",
+            "Episode": "19"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "The Fallen",
+            "Season": "03",
+            "Episode": "20"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "The Trap",
+            "Season": "01",
+            "Episode": "20"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Al Sah-him",
+            "Season": "03",
+            "Episode": "21"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Grodd Lives",
+            "Season": "01",
+            "Episode": "21"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "This Is Your Sword",
+            "Season": "03",
+            "Episode": "22"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Rogue Air",
+            "Season": "01",
+            "Episode": "22"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "My Name Is Oliver Queen",
+            "Season": "03",
+            "Episode": "23"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Fast Enough",
+            "Season": "01",
+            "Episode": "23"
+        },
+        {
+            "Series": "Vixen",
+            "Title": "Episode 1",
+            "Season": "01",
+            "Episode": "01"
+        },
+        {
+            "Series": "Vixen",
+            "Title": "Episode 2",
+            "Season": "01",
+            "Episode": "02"
+        },
+        {
+            "Series": "Vixen",
+            "Title": "Episode 3",
+            "Season": "01",
+            "Episode": "03"
+        },
+        {
+            "Series": "Vixen",
+            "Title": "Episode 4",
+            "Season": "01",
+            "Episode": "04"
+        },
+        {
+            "Series": "Vixen",
+            "Title": "Episode 5",
+            "Season": "01",
+            "Episode": "05"
+        },
+        {
+            "Series": "Vixen",
+            "Title": "Episode 6",
+            "Season": "01",
+            "Episode": "06"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "The Man Who Saved Central City",
+            "Season": "02",
+            "Episode": "01"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Green Arrow",
+            "Season": "04",
+            "Episode": "01"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Flash of Two Worlds",
+            "Season": "02",
+            "Episode": "02"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "The Candidate",
+            "Season": "04",
+            "Episode": "02"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Family of Rogues",
+            "Season": "02",
+            "Episode": "03"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Restoration",
+            "Season": "04",
+            "Episode": "03"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Pilot",
+            "Season": "01",
+            "Episode": "01"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "The Fury of Firestorm",
+            "Season": "02",
+            "Episode": "04"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Beyond Redemption",
+            "Season": "04",
+            "Episode": "04"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Stronger Together",
+            "Season": "01",
+            "Episode": "02"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "The Darkness and the Light",
+            "Season": "02",
+            "Episode": "05"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Haunted",
+            "Season": "04",
+            "Episode": "05"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Fight or Flight",
+            "Season": "01",
+            "Episode": "03"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Enter Zoom",
+            "Season": "02",
+            "Episode": "06"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Lost Souls",
+            "Season": "04",
+            "Episode": "06"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Livewire",
+            "Season": "01",
+            "Episode": "04"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Gorilla Warfare",
+            "Season": "02",
+            "Episode": "07"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Brotherhood",
+            "Season": "04",
+            "Episode": "07"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "How Does She Do It?",
+            "Season": "01",
+            "Episode": "05"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Red Faced",
+            "Season": "01",
+            "Episode": "06"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Legends of Today",
+            "Season": "02",
+            "Episode": "08"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Legends of Yesterday",
+            "Season": "04",
+            "Episode": "08"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Human For a Day",
+            "Season": "01",
+            "Episode": "07"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Running to Stand Still",
+            "Season": "02",
+            "Episode": "09"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Dark Waters",
+            "Season": "04",
+            "Episode": "09"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Hostile Takeover",
+            "Season": "01",
+            "Episode": "08"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Blood Bonds",
+            "Season": "01",
+            "Episode": "09"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Childish Things",
+            "Season": "01",
+            "Episode": "10"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Potential Energy",
+            "Season": "02",
+            "Episode": "10"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Blood Debts",
+            "Season": "04",
+            "Episode": "10"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Pilot, Part 1",
+            "Season": "01",
+            "Episode": "01"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Strange Visitor From Another Planet",
+            "Season": "01",
+            "Episode": "11"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "The Reverse-Flash Returns",
+            "Season": "02",
+            "Episode": "11"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "A.W.O.L.",
+            "Season": "04",
+            "Episode": "11"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Pilot, Part 2",
+            "Season": "01",
+            "Episode": "02"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Bizarro",
+            "Season": "01",
+            "Episode": "12"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Fast Lane",
+            "Season": "02",
+            "Episode": "12"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Unchained",
+            "Season": "04",
+            "Episode": "12"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Blood Ties",
+            "Season": "01",
+            "Episode": "03"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "For the Girl Who Has Everything",
+            "Season": "01",
+            "Episode": "13"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Welcome to Earth-2",
+            "Season": "02",
+            "Episode": "13"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Sins of the Father",
+            "Season": "04",
+            "Episode": "13"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "White Knights",
+            "Season": "01",
+            "Episode": "04"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Escape from Earth-2",
+            "Season": "02",
+            "Episode": "14"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Code of Silence",
+            "Season": "04",
+            "Episode": "14"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Fail-Safe",
+            "Season": "01",
+            "Episode": "05"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Truth, Justice and the American Way",
+            "Season": "01",
+            "Episode": "14"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "King Shark",
+            "Season": "02",
+            "Episode": "15"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Taken",
+            "Season": "04",
+            "Episode": "15"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Star City 2046",
+            "Season": "01",
+            "Episode": "06"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Solitude",
+            "Season": "01",
+            "Episode": "15"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Marooned",
+            "Season": "01",
+            "Episode": "07"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Night of the Hawk",
+            "Season": "01",
+            "Episode": "08"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Falling",
+            "Season": "01",
+            "Episode": "16"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Manhunter",
+            "Season": "01",
+            "Episode": "17"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Trajectory",
+            "Season": "02",
+            "Episode": "16"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Broken Hearts",
+            "Season": "04",
+            "Episode": "16"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Worlds Finest",
+            "Season": "01",
+            "Episode": "18"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Flash Back",
+            "Season": "02",
+            "Episode": "17"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Beacon of Hope",
+            "Season": "04",
+            "Episode": "17"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Left Behind",
+            "Season": "01",
+            "Episode": "09"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Eleven-Fifty-Nine",
+            "Season": "04",
+            "Episode": "18"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Progeny",
+            "Season": "01",
+            "Episode": "10"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Myriad",
+            "Season": "01",
+            "Episode": "19"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "The Magnificent Eight",
+            "Season": "01",
+            "Episode": "11"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Better Angels",
+            "Season": "01",
+            "Episode": "20"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Versus Zoom",
+            "Season": "02",
+            "Episode": "18"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Last Refuge",
+            "Season": "01",
+            "Episode": "12"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Back to Normal",
+            "Season": "02",
+            "Episode": "19"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Canary Cry",
+            "Season": "04",
+            "Episode": "19"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Leviathan",
+            "Season": "01",
+            "Episode": "13"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Rupture",
+            "Season": "02",
+            "Episode": "20"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Genesis",
+            "Season": "04",
+            "Episode": "20"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "River of Time",
+            "Season": "01",
+            "Episode": "14"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "The Runaway Dinosaur",
+            "Season": "02",
+            "Episode": "21"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Monument Point",
+            "Season": "04",
+            "Episode": "21"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Destiny",
+            "Season": "01",
+            "Episode": "15"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Invincible",
+            "Season": "02",
+            "Episode": "22"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Lost in the Flood",
+            "Season": "04",
+            "Episode": "22"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Legendary",
+            "Season": "01",
+            "Episode": "16"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "The Race of His Life",
+            "Season": "02",
+            "Episode": "23"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Schism",
+            "Season": "04",
+            "Episode": "23"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Flashpoint",
+            "Season": "03",
+            "Episode": "01"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Legacy",
+            "Season": "05",
+            "Episode": "01"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "The Adventures of Supergirl",
+            "Season": "02",
+            "Episode": "01"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Paradox",
+            "Season": "03",
+            "Episode": "02"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "The Recruits",
+            "Season": "05",
+            "Episode": "02"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Out of Time",
+            "Season": "02",
+            "Episode": "01"
+        },
+        {
+            "Series": "Vixen",
+            "Title": "Episode 1",
+            "Season": "02",
+            "Episode": "01"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "The Last Children of Krypton",
+            "Season": "02",
+            "Episode": "02"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Magenta",
+            "Season": "03",
+            "Episode": "03"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "A Matter of Trust",
+            "Season": "05",
+            "Episode": "03"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "The Justice Society of America",
+            "Season": "02",
+            "Episode": "02"
+        },
+        {
+            "Series": "Vixen",
+            "Title": "Episode 2",
+            "Season": "02",
+            "Episode": "02"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Welcome to Earth",
+            "Season": "02",
+            "Episode": "03"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "The New Rogues",
+            "Season": "03",
+            "Episode": "04"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Penance",
+            "Season": "05",
+            "Episode": "04"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Shogun",
+            "Season": "02",
+            "Episode": "03"
+        },
+        {
+            "Series": "Vixen",
+            "Title": "Episode 3",
+            "Season": "02",
+            "Episode": "03"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Survivors",
+            "Season": "02",
+            "Episode": "04"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Monster",
+            "Season": "03",
+            "Episode": "05"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Human Target",
+            "Season": "05",
+            "Episode": "05"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Abominations",
+            "Season": "02",
+            "Episode": "04"
+        },
+        {
+            "Series": "Vixen",
+            "Title": "Episode 4",
+            "Season": "02",
+            "Episode": "04"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Crossfire",
+            "Season": "02",
+            "Episode": "05"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "So It Begins",
+            "Season": "05",
+            "Episode": "06"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Compromised",
+            "Season": "02",
+            "Episode": "05"
+        },
+        {
+            "Series": "Vixen",
+            "Title": "Episode 5",
+            "Season": "02",
+            "Episode": "05"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Changing",
+            "Season": "02",
+            "Episode": "06"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Shade",
+            "Season": "03",
+            "Episode": "06"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Vigilante",
+            "Season": "05",
+            "Episode": "07"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Outlaw Country",
+            "Season": "02",
+            "Episode": "06"
+        },
+        {
+            "Series": "Vixen",
+            "Title": "Episode 6",
+            "Season": "02",
+            "Episode": "06"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "The Darkest Place",
+            "Season": "02",
+            "Episode": "07"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Killer Frost",
+            "Season": "03",
+            "Episode": "07"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Medusa",
+            "Season": "02",
+            "Episode": "08"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Invasion!",
+            "Season": "03",
+            "Episode": "08"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Invasion!",
+            "Season": "05",
+            "Episode": "08"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Invasion!",
+            "Season": "02",
+            "Episode": "07"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "The Present",
+            "Season": "03",
+            "Episode": "09"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "What We Leave Behind",
+            "Season": "05",
+            "Episode": "09"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "The Chicago Way",
+            "Season": "02",
+            "Episode": "08"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Supergirl Lives",
+            "Season": "02",
+            "Episode": "09"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Borrowing Problems from the Future",
+            "Season": "03",
+            "Episode": "10"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Raiders of the Lost Art",
+            "Season": "02",
+            "Episode": "09"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Who Are You?",
+            "Season": "05",
+            "Episode": "10"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "We Can Be Heroes",
+            "Season": "02",
+            "Episode": "10"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Dead or Alive",
+            "Season": "03",
+            "Episode": "11"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "The Legion of Doom",
+            "Season": "02",
+            "Episode": "10"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Second Chances",
+            "Season": "05",
+            "Episode": "11"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "The Martian Chronicles",
+            "Season": "02",
+            "Episode": "11"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Untouchable",
+            "Season": "03",
+            "Episode": "12"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Turncoat",
+            "Season": "02",
+            "Episode": "11"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Bratva",
+            "Season": "05",
+            "Episode": "12"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Luthors",
+            "Season": "02",
+            "Episode": "12"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Spectre of the Gun",
+            "Season": "05",
+            "Episode": "13"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Mr. & Mrs. Mxyzptlk",
+            "Season": "02",
+            "Episode": "13"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Attack on Gorilla City",
+            "Season": "03",
+            "Episode": "13"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Camelot/3000",
+            "Season": "02",
+            "Episode": "12"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "The Sin-Eater",
+            "Season": "05",
+            "Episode": "14"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Homecoming",
+            "Season": "02",
+            "Episode": "14"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Attack on Central City",
+            "Season": "03",
+            "Episode": "14"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Fighting Fire With Fire",
+            "Season": "05",
+            "Episode": "15"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Exodus",
+            "Season": "02",
+            "Episode": "15"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "The Wrath of Savitar",
+            "Season": "03",
+            "Episode": "15"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Land of the Lost",
+            "Season": "02",
+            "Episode": "13"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Into the Speed Force",
+            "Season": "03",
+            "Episode": "16"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Moonshot",
+            "Season": "02",
+            "Episode": "14"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Checkmate",
+            "Season": "05",
+            "Episode": "16"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Star-Crossed",
+            "Season": "02",
+            "Episode": "16"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Duet",
+            "Season": "03",
+            "Episode": "17"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Fellowship of the Spear",
+            "Season": "02",
+            "Episode": "15"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Kapiushon",
+            "Season": "05",
+            "Episode": "17"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Distant Sun",
+            "Season": "02",
+            "Episode": "17"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Abra Kadabra",
+            "Season": "03",
+            "Episode": "18"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Doomworld",
+            "Season": "02",
+            "Episode": "16"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Disbanded",
+            "Season": "05",
+            "Episode": "18"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Aruba",
+            "Season": "02",
+            "Episode": "17"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Ace Reporter",
+            "Season": "02",
+            "Episode": "18"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "The Once and Future Flash",
+            "Season": "03",
+            "Episode": "19"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Dangerous Liaisons",
+            "Season": "05",
+            "Episode": "19"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Alex",
+            "Season": "02",
+            "Episode": "19"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "I Know Who You Are",
+            "Season": "03",
+            "Episode": "20"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Underneath",
+            "Season": "05",
+            "Episode": "20"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "City of Lost Children",
+            "Season": "02",
+            "Episode": "20"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Cause and Effect",
+            "Season": "03",
+            "Episode": "21"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Honor Thy Fathers",
+            "Season": "05",
+            "Episode": "21"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Resist",
+            "Season": "02",
+            "Episode": "21"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Infantino Street",
+            "Season": "03",
+            "Episode": "22"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Missing",
+            "Season": "05",
+            "Episode": "22"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Nevertheless, She Persisted",
+            "Season": "02",
+            "Episode": "22"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Finish Line",
+            "Season": "03",
+            "Episode": "23"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Lian Yu",
+            "Season": "05",
+            "Episode": "23"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Girl of Steel",
+            "Season": "03",
+            "Episode": "01"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "The Flash Reborn",
+            "Season": "04",
+            "Episode": "01"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Aruba-Con",
+            "Season": "03",
+            "Episode": "01"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Fallout",
+            "Season": "06",
+            "Episode": "01"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Triggers",
+            "Season": "03",
+            "Episode": "02"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Mixed Signals",
+            "Season": "04",
+            "Episode": "02"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Freakshow",
+            "Season": "03",
+            "Episode": "02"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Tribute",
+            "Season": "06",
+            "Episode": "02"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Far From the Tree",
+            "Season": "03",
+            "Episode": "03"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Luck Be a Lady",
+            "Season": "04",
+            "Episode": "03"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Zari",
+            "Season": "03",
+            "Episode": "03"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Next of Kin",
+            "Season": "06",
+            "Episode": "03"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "The Faithful",
+            "Season": "03",
+            "Episode": "04"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Elongated Journey Into Night",
+            "Season": "04",
+            "Episode": "04"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Phone Home",
+            "Season": "03",
+            "Episode": "04"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Reversal",
+            "Season": "06",
+            "Episode": "04"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Damage",
+            "Season": "03",
+            "Episode": "05"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Girls Night Out",
+            "Season": "04",
+            "Episode": "05"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Return of the Mack",
+            "Season": "03",
+            "Episode": "05"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Deathstroke Returns",
+            "Season": "06",
+            "Episode": "05"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Midvale",
+            "Season": "03",
+            "Episode": "06"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "When Harry Met Harry...",
+            "Season": "04",
+            "Episode": "06"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Helen Hunt",
+            "Season": "03",
+            "Episode": "06"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Promises Kept",
+            "Season": "06",
+            "Episode": "06"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Wake Up",
+            "Season": "03",
+            "Episode": "07"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Therefore I Am",
+            "Season": "04",
+            "Episode": "07"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Welcome to the Jungle",
+            "Season": "03",
+            "Episode": "07"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Thanksgiving",
+            "Season": "06",
+            "Episode": "07"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Crisis on Earth-X, Part 1",
+            "Season": "03",
+            "Episode": "08"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Crisis on Earth-X, Part 2",
+            "Season": "06",
+            "Episode": "08"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Crisis on Earth-X, Part 3",
+            "Season": "04",
+            "Episode": "08"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Crisis on Earth-X, Part 4",
+            "Season": "03",
+            "Episode": "08"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Reign",
+            "Season": "03",
+            "Episode": "09"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Don't Run",
+            "Season": "04",
+            "Episode": "09"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Beebo the God of War",
+            "Season": "03",
+            "Episode": "09"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Irreconcilable Differences",
+            "Season": "06",
+            "Episode": "09"
+        },
+        {
+            "Series": "Freedom Fighters: The Ray",
+            "Title": "Episode One",
+            "Season": "01",
+            "Episode": "01"
+        },
+        {
+            "Series": "Freedom Fighters: The Ray",
+            "Title": "Episode Two",
+            "Season": "01",
+            "Episode": "02"
+        },
+        {
+            "Series": "Freedom Fighters: The Ray",
+            "Title": "Episode Three",
+            "Season": "01",
+            "Episode": "03"
+        },
+        {
+            "Series": "Freedom Fighters: The Ray",
+            "Title": "Episode Four",
+            "Season": "01",
+            "Episode": "04"
+        },
+        {
+            "Series": "Freedom Fighters: The Ray",
+            "Title": "Episode Five",
+            "Season": "01",
+            "Episode": "05"
+        },
+        {
+            "Series": "Freedom Fighters: The Ray",
+            "Title": "Episode Six",
+            "Season": "01",
+            "Episode": "06"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Legion of Super-Heroes",
+            "Season": "03",
+            "Episode": "10"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "The Trial of The Flash",
+            "Season": "04",
+            "Episode": "10"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Resurrection",
+            "Season": "01",
+            "Episode": "01"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Divided",
+            "Season": "06",
+            "Episode": "10"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Fort Rozz",
+            "Season": "03",
+            "Episode": "11"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "The Elongated Knight Rises",
+            "Season": "04",
+            "Episode": "11"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "Lawanda: The Book of Hope",
+            "Season": "01",
+            "Episode": "02"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "We Fall",
+            "Season": "06",
+            "Episode": "11"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "For Good",
+            "Season": "03",
+            "Episode": "12"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Honey, I Shrunk Team Flash",
+            "Season": "04",
+            "Episode": "12"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "Lawanda: The Book of Burial",
+            "Season": "01",
+            "Episode": "03"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "All for Nothing",
+            "Season": "06",
+            "Episode": "12"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Both Sides Now",
+            "Season": "03",
+            "Episode": "13"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "True Colors",
+            "Season": "04",
+            "Episode": "13"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "Black Jesus",
+            "Season": "01",
+            "Episode": "04"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "The Devil's Greatest Trick",
+            "Season": "06",
+            "Episode": "13"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Daddy Darhkest",
+            "Season": "03",
+            "Episode": "10"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "And Then the Devil Brought the Plague: The Book of Green Light",
+            "Season": "01",
+            "Episode": "05"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Here I Go Again",
+            "Season": "03",
+            "Episode": "11"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "The Curse of the Earth Totem",
+            "Season": "03",
+            "Episode": "12"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Subject 9",
+            "Season": "04",
+            "Episode": "14"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "Three Sevens: The Book of Thunder",
+            "Season": "01",
+            "Episode": "06"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Collision Course",
+            "Season": "06",
+            "Episode": "14"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "No Country for Old Dads",
+            "Season": "03",
+            "Episode": "13"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Enter Flashtime",
+            "Season": "04",
+            "Episode": "15"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "Equinox: The Book of Fate",
+            "Season": "01",
+            "Episode": "07"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Doppelganger",
+            "Season": "06",
+            "Episode": "15"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Amazing Grace",
+            "Season": "03",
+            "Episode": "14"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Run, Iris, Run",
+            "Season": "04",
+            "Episode": "16"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Revelations",
+            "Season": "01",
+            "Episode": "08"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Necromancing the Stone",
+            "Season": "03",
+            "Episode": "15"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Little Black Lies",
+            "Season": "01",
+            "Episode": "09"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "I, Ava",
+            "Season": "03",
+            "Episode": "16"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "Sins of the Father: The Book of Redemption",
+            "Season": "01",
+            "Episode": "10"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "The Thanatos Guild",
+            "Season": "06",
+            "Episode": "16"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Guest Starring John Noble",
+            "Season": "03",
+            "Episode": "17"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "Black Jesus: The Book of Crucifixion",
+            "Season": "01",
+            "Episode": "11"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Brothers in Arms",
+            "Season": "06",
+            "Episode": "17"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "The Good, The Bad and The Cuddly",
+            "Season": "03",
+            "Episode": "18"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Null and Annoyed",
+            "Season": "04",
+            "Episode": "17"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Resurrection and the Light: The Book of Pain",
+            "Season": "01",
+            "Episode": "12"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Fundamentals",
+            "Season": "06",
+            "Episode": "18"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Schott Through the Heart",
+            "Season": "03",
+            "Episode": "14"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Lose Yourself",
+            "Season": "04",
+            "Episode": "18"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "Shadow of Death: The Book of War",
+            "Season": "01",
+            "Episode": "13"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "The Dragon",
+            "Season": "06",
+            "Episode": "19"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "In Search of Lost Time",
+            "Season": "03",
+            "Episode": "15"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Fury Rogue",
+            "Season": "04",
+            "Episode": "19"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Shifting Allegiances",
+            "Season": "06",
+            "Episode": "20"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Of Two Minds",
+            "Season": "03",
+            "Episode": "16"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Therefore She Is",
+            "Season": "04",
+            "Episode": "20"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Docket No. 11-19-41-73",
+            "Season": "06",
+            "Episode": "21"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Trinity",
+            "Season": "03",
+            "Episode": "17"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Harry and the Harrisons",
+            "Season": "04",
+            "Episode": "21"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "The Ties That Bind",
+            "Season": "06",
+            "Episode": "22"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Shelter from the Storm",
+            "Season": "03",
+            "Episode": "18"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Think Fast",
+            "Season": "04",
+            "Episode": "22"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Life Sentence",
+            "Season": "06",
+            "Episode": "23"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "The Fanatical",
+            "Season": "03",
+            "Episode": "19"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "We Are The Flash",
+            "Season": "04",
+            "Episode": "23"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Dark Side of the Moon",
+            "Season": "03",
+            "Episode": "20"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Not Kansas",
+            "Season": "03",
+            "Episode": "21"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Make it Reign",
+            "Season": "03",
+            "Episode": "22"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Battles Lost and Won",
+            "Season": "03",
+            "Episode": "23"
+        },
+        {
+            "Series": "Freedom Fighters: The Ray",
+            "Title": "Episode One",
+            "Season": "02",
+            "Episode": "01"
+        },
+        {
+            "Series": "Freedom Fighters: The Ray",
+            "Title": "Episode Two",
+            "Season": "02",
+            "Episode": "02"
+        },
+        {
+            "Series": "Freedom Fighters: The Ray",
+            "Title": "Episode Three",
+            "Season": "02",
+            "Episode": "03"
+        },
+        {
+            "Series": "Freedom Fighters: The Ray",
+            "Title": "Episode Four",
+            "Season": "02",
+            "Episode": "04"
+        },
+        {
+            "Series": "Freedom Fighters: The Ray",
+            "Title": "Episode Five",
+            "Season": "02",
+            "Episode": "05"
+        },
+        {
+            "Series": "Freedom Fighters: The Ray",
+            "Title": "Episode Six",
+            "Season": "02",
+            "Episode": "06"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Nora",
+            "Season": "05",
+            "Episode": "01"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Consequences: Chapter One: Rise of the Green Light Babies",
+            "Season": "02",
+            "Episode": "01"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "American Alien",
+            "Season": "04",
+            "Episode": "01"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Inmate 4587",
+            "Season": "07",
+            "Episode": "01"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Blocked",
+            "Season": "05",
+            "Episode": "02"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Consequences: Chapter Two: Black Jesus Blues",
+            "Season": "02",
+            "Episode": "02"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Fallout",
+            "Season": "04",
+            "Episode": "02"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "The Longbow Hunters",
+            "Season": "07",
+            "Episode": "02"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "The Virgin Gary",
+            "Season": "04",
+            "Episode": "01"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "The Death of Vibe",
+            "Season": "05",
+            "Episode": "03"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Consequences: Chapter Three: Master Lowry",
+            "Season": "02",
+            "Episode": "03"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Man of Steel",
+            "Season": "04",
+            "Episode": "03"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Crossing Lines",
+            "Season": "07",
+            "Episode": "03"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Witch Hunt",
+            "Season": "04",
+            "Episode": "02"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "News Flash",
+            "Season": "05",
+            "Episode": "04"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Consequences: Chapter Four: Translucent Freak",
+            "Season": "02",
+            "Episode": "04"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Ahimsa",
+            "Season": "04",
+            "Episode": "04"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Level Two",
+            "Season": "07",
+            "Episode": "04"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Dancing Queen",
+            "Season": "04",
+            "Episode": "03"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Parasite Lost",
+            "Season": "04",
+            "Episode": "05"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "The Demon",
+            "Season": "07",
+            "Episode": "05"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Wet Hot American Bummer",
+            "Season": "04",
+            "Episode": "04"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "All Doll'd Up",
+            "Season": "05",
+            "Episode": "05"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Blood: Chapter One: Requiem",
+            "Season": "02",
+            "Episode": "05"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Call to Action",
+            "Season": "04",
+            "Episode": "06"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Due Process",
+            "Season": "07",
+            "Episode": "06"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Tagumo Attacks!!!",
+            "Season": "04",
+            "Episode": "05"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "The Icicle Cometh",
+            "Season": "05",
+            "Episode": "06"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Blood: Chapter Two: The Perdi",
+            "Season": "02",
+            "Episode": "06"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Rather the Fallen Angel",
+            "Season": "04",
+            "Episode": "07"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "The Slabside Redemption",
+            "Season": "07",
+            "Episode": "07"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Tender is the Nate",
+            "Season": "04",
+            "Episode": "06"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "O Come, All Ye Thankful",
+            "Season": "05",
+            "Episode": "07"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Blood: Chapter Three: The Sange",
+            "Season": "02",
+            "Episode": "07"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Bunker Hill",
+            "Season": "04",
+            "Episode": "08"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Unmasked",
+            "Season": "07",
+            "Episode": "08"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Hell No, Dolly!",
+            "Season": "04",
+            "Episode": "07"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "What's Past is Prologue",
+            "Season": "05",
+            "Episode": "08"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Rebellion: Chapter One: Exodus",
+            "Season": "02",
+            "Episode": "08"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Elseworlds, Part 1",
+            "Season": "05",
+            "Episode": "09"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Elseworlds, Part 2",
+            "Season": "07",
+            "Episode": "09"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Legends of To-Meow-Meow",
+            "Season": "04",
+            "Episode": "08"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Elseworlds, Part 3",
+            "Season": "04",
+            "Episode": "09"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Rebellion: Chapter Two: Gift of the Magi",
+            "Season": "02",
+            "Episode": "09"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "The Flash & The Furious",
+            "Season": "05",
+            "Episode": "10"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Suspicious Minds",
+            "Season": "04",
+            "Episode": "10"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "My Name is Emiko Queen",
+            "Season": "07",
+            "Episode": "10"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Rebellion: Chapter Three: Angelitos Negros",
+            "Season": "02",
+            "Episode": "10"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Seeing Red",
+            "Season": "05",
+            "Episode": "11"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Blood Memory",
+            "Season": "04",
+            "Episode": "11"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Past Sins",
+            "Season": "07",
+            "Episode": "11"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Secrets: Chapter One: Prodigal Son",
+            "Season": "02",
+            "Episode": "11"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Memorabilia",
+            "Season": "05",
+            "Episode": "12"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Emerald Archer",
+            "Season": "07",
+            "Episode": "12"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Secrets: Chapter Two: Just and Unjust",
+            "Season": "02",
+            "Episode": "12"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Goldfaced",
+            "Season": "05",
+            "Episode": "13"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Star City Slayer",
+            "Season": "07",
+            "Episode": "13"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Secrets: Chapter Three: Pillar of Fire",
+            "Season": "02",
+            "Episode": "13"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Cause and XS",
+            "Season": "05",
+            "Episode": "14"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Menagerie",
+            "Season": "04",
+            "Episode": "12"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "What's So Funny About Truth, Justice, and the American Way?",
+            "Season": "04",
+            "Episode": "13"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Brothers & Sisters",
+            "Season": "07",
+            "Episode": "14"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Secrets: Chapter Four: Original Sin",
+            "Season": "02",
+            "Episode": "14"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "King Shark vs. Gorilla Grodd",
+            "Season": "05",
+            "Episode": "15"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Stand and Deliver",
+            "Season": "04",
+            "Episode": "14"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Training Day",
+            "Season": "07",
+            "Episode": "15"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of the Apocalypse: Chapter One: The Alpha",
+            "Season": "02",
+            "Episode": "15"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Failure is an Orphan",
+            "Season": "05",
+            "Episode": "16"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "O Brother, Where Art Thou?",
+            "Season": "04",
+            "Episode": "15"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Star City 2040",
+            "Season": "07",
+            "Episode": "16"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of the Apocalypse: Chapter Two: The Omega",
+            "Season": "02",
+            "Episode": "16"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Time Bomb",
+            "Season": "05",
+            "Episode": "17"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "The House of L",
+            "Season": "04",
+            "Episode": "16"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Inheritance",
+            "Season": "07",
+            "Episode": "17"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "All About Eve",
+            "Season": "04",
+            "Episode": "17"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Lucha De Apuestas",
+            "Season": "04",
+            "Episode": "09"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "The Getaway",
+            "Season": "04",
+            "Episode": "10"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "S\u00e9ance and Sensibility",
+            "Season": "04",
+            "Episode": "11"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Lost Canary",
+            "Season": "07",
+            "Episode": "18"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Godspeed",
+            "Season": "05",
+            "Episode": "18"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Crime and Punishment",
+            "Season": "04",
+            "Episode": "18"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "The Eggplant, The Witch & The Wardrobe",
+            "Season": "04",
+            "Episode": "12"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Spartan",
+            "Season": "07",
+            "Episode": "19"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Snow Pack",
+            "Season": "05",
+            "Episode": "19"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "American Dreamer",
+            "Season": "04",
+            "Episode": "19"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Egg MacGuffin",
+            "Season": "04",
+            "Episode": "13"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Confessions",
+            "Season": "07",
+            "Episode": "20"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Gone Rogue",
+            "Season": "05",
+            "Episode": "20"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Will The Real Miss Tessmacher Please Stand Up?",
+            "Season": "04",
+            "Episode": "20"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Nip/Stuck",
+            "Season": "04",
+            "Episode": "14"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Living Proof",
+            "Season": "07",
+            "Episode": "21"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "The Girl With The Red Lightning",
+            "Season": "05",
+            "Episode": "21"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Red Dawn",
+            "Season": "04",
+            "Episode": "21"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Terms of Service",
+            "Season": "04",
+            "Episode": "15"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "You Have Saved This City",
+            "Season": "07",
+            "Episode": "22"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Legacy",
+            "Season": "05",
+            "Episode": "22"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "The Quest for Peace",
+            "Season": "04",
+            "Episode": "22"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Hey, World!",
+            "Season": "04",
+            "Episode": "16"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "Pilot",
+            "Season": "01",
+            "Episode": "01"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Event Horizon",
+            "Season": "05",
+            "Episode": "01"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Occupation: Chapter One: Birth of Blackbird",
+            "Season": "03",
+            "Episode": "01"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Into the Void",
+            "Season": "06",
+            "Episode": "01"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "The Rabbit Hole",
+            "Season": "01",
+            "Episode": "02"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Stranger Beside Me",
+            "Season": "05",
+            "Episode": "02"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Occupation: Chapter Two: Maryam's Tasbih",
+            "Season": "03",
+            "Episode": "02"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "A Flash of the Lightning",
+            "Season": "06",
+            "Episode": "02"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Starling City",
+            "Season": "08",
+            "Episode": "01"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "Down Down Down",
+            "Season": "01",
+            "Episode": "03"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Blurred Lines",
+            "Season": "05",
+            "Episode": "03"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Occupation: Chapter Three: Agent Odell's Pipe-Dream",
+            "Season": "03",
+            "Episode": "03"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Dead Man Running",
+            "Season": "06",
+            "Episode": "03"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Welcome to Hong Kong",
+            "Season": "08",
+            "Episode": "02"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "Who Are You?",
+            "Season": "01",
+            "Episode": "04"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "In Plain Sight",
+            "Season": "05",
+            "Episode": "04"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Occupation: Chapter Four: Lynn's Ouroboros",
+            "Season": "03",
+            "Episode": "04"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "There Will Be Blood",
+            "Season": "06",
+            "Episode": "04"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Leap of Faith",
+            "Season": "08",
+            "Episode": "03"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "Mine Is a Long And a Sad Tale",
+            "Season": "01",
+            "Episode": "05"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Dangerous Liaisons",
+            "Season": "05",
+            "Episode": "05"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Kiss Kiss Breach Breach",
+            "Season": "06",
+            "Episode": "05"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Present Tense",
+            "Season": "08",
+            "Episode": "04"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "I'll Be Judge, I'll Be Jury",
+            "Season": "01",
+            "Episode": "06"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Confidence Women",
+            "Season": "05",
+            "Episode": "06"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Occupation: Chapter Five: Requiem for Tavon",
+            "Season": "03",
+            "Episode": "05"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "Tell Me the Truth",
+            "Season": "01",
+            "Episode": "07"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Tremors",
+            "Season": "05",
+            "Episode": "07"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Resistance: Chapter One: Knocking on Heaven's Door",
+            "Season": "03",
+            "Episode": "06"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "License to Elongate",
+            "Season": "06",
+            "Episode": "06"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Prochnost",
+            "Season": "08",
+            "Episode": "05"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Resistance: Chapter Two: Henderson's Opus",
+            "Season": "03",
+            "Episode": "07"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "The Last Temptation of Barry Allen, Pt. 1",
+            "Season": "06",
+            "Episode": "07"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Reset",
+            "Season": "08",
+            "Episode": "06"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "A Mad Tea-Party",
+            "Season": "01",
+            "Episode": "08"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "The Wrath of Rama Khan",
+            "Season": "05",
+            "Episode": "08"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Resistance: Chapter Three: The Battle of Franklin Terrace",
+            "Season": "03",
+            "Episode": "08"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "The Last Temptation of Barry Allen, Pt. 2",
+            "Season": "06",
+            "Episode": "08"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Purgatory",
+            "Season": "08",
+            "Episode": "07"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Crisis on Infinite Earths: Part One",
+            "Season": "05",
+            "Episode": "09"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Resistance: Chapter Four: Earth Crisis",
+            "Season": "03",
+            "Episode": "09"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "Crisis on Infinite Earths: Part Two",
+            "Season": "01",
+            "Episode": "09"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Crisis on Infinite Earths: Part Three",
+            "Season": "06",
+            "Episode": "09"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Crisis on Infinite Earths: Part Four",
+            "Season": "08",
+            "Episode": "08"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Crisis on Infinite Earths: Part Five",
+            "Season": "05",
+            "Episode": "0\u2014"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "How Queer Everything Is Today!",
+            "Season": "01",
+            "Episode": "10"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "The Bottle Episode",
+            "Season": "05",
+            "Episode": "10"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Markovia: Chapter One: Blessings and Curses Reborn",
+            "Season": "03",
+            "Episode": "10"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Green Arrow & The Canaries",
+            "Season": "08",
+            "Episode": "09"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Meet the Legends",
+            "Season": "05",
+            "Episode": "01"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "An Un-Birthday Present",
+            "Season": "01",
+            "Episode": "11"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Back From the Future - Part One",
+            "Season": "05",
+            "Episode": "11"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Markovia: Chapter Two: Lynn's Addiction",
+            "Season": "03",
+            "Episode": "11"
+        },
+        {
+            "Series": "Arrow",
+            "Title": "Fadeout",
+            "Season": "08",
+            "Episode": "10"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Markovia: Chapter Three: Motherless ID",
+            "Season": "03",
+            "Episode": "12"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Marathon",
+            "Season": "06",
+            "Episode": "10"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Miss Me, Kiss Me, Love Me",
+            "Season": "05",
+            "Episode": "02"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Markovia: Chapter Four: Grab the Strap",
+            "Season": "03",
+            "Episode": "13"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Love Is A Battlefield",
+            "Season": "06",
+            "Episode": "11"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Slay Anything",
+            "Season": "05",
+            "Episode": "03"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "Take Your Choice",
+            "Season": "01",
+            "Episode": "12"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Back From the Future - Part Two",
+            "Season": "05",
+            "Episode": "12"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "A Girl Named Sue",
+            "Season": "06",
+            "Episode": "12"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "A Head of Her Time",
+            "Season": "05",
+            "Episode": "04"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "Drink Me",
+            "Season": "01",
+            "Episode": "13"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "It's a Super Life",
+            "Season": "05",
+            "Episode": "13"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of War: Chapter One: Homecoming",
+            "Season": "03",
+            "Episode": "14"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Grodd Friended Me",
+            "Season": "06",
+            "Episode": "13"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Mortal Khanbat",
+            "Season": "05",
+            "Episode": "05"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of War: Chapter Two: Freedom Ain't Free",
+            "Season": "03",
+            "Episode": "15"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "Grinning From Ear to Ear",
+            "Season": "01",
+            "Episode": "14"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "The Bodyguard",
+            "Season": "05",
+            "Episode": "14"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of War: Chapter Three: Liberation",
+            "Season": "03",
+            "Episode": "16"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Death of the Speed Force",
+            "Season": "06",
+            "Episode": "14"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Mr. Parker's Cul-De-Sac",
+            "Season": "05",
+            "Episode": "06"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "Off With Her Head",
+            "Season": "01",
+            "Episode": "15"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Reality Bytes",
+            "Season": "05",
+            "Episode": "15"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "The Exorcism of Nash Wells",
+            "Season": "06",
+            "Episode": "15"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Romeo V. Juliet: Dawn of Justness",
+            "Season": "05",
+            "Episode": "07"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "Through the Looking-Glass",
+            "Season": "01",
+            "Episode": "16"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Alex in Wonderland",
+            "Season": "05",
+            "Episode": "16"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "So Long and Goodnight",
+            "Season": "06",
+            "Episode": "16"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Zari, Not Zari",
+            "Season": "05",
+            "Episode": "08"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "A Narrow Escape",
+            "Season": "01",
+            "Episode": "17"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Liberation",
+            "Season": "06",
+            "Episode": "17"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "The Great British Fake Off",
+            "Season": "05",
+            "Episode": "09"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "If You Believe In Me, I'll Believe In You",
+            "Season": "01",
+            "Episode": "18"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Deus Lex Machina",
+            "Season": "05",
+            "Episode": "17"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Pay the Piper",
+            "Season": "06",
+            "Episode": "18"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Ship Broken",
+            "Season": "05",
+            "Episode": "10"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "A Secret Kept From All the Rest",
+            "Season": "01",
+            "Episode": "19"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "The Missing Link",
+            "Season": "05",
+            "Episode": "18"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Success Is Assured",
+            "Season": "06",
+            "Episode": "19"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Freaks and Greeks",
+            "Season": "05",
+            "Episode": "11"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "O, Mouse!",
+            "Season": "01",
+            "Episode": "20"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Immortal Kombat",
+            "Season": "05",
+            "Episode": "19"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Pilot",
+            "Season": "01",
+            "Episode": "01"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "I Am Legends",
+            "Season": "05",
+            "Episode": "12"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "S.T.R.I.P.E.",
+            "Season": "01",
+            "Episode": "02"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "The One Where We're Trapped On TV",
+            "Season": "05",
+            "Episode": "13"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Icicle",
+            "Season": "01",
+            "Episode": "03"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Swan Thong",
+            "Season": "05",
+            "Episode": "14"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Wildcat",
+            "Season": "01",
+            "Episode": "04"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Hourman and Dr. Mid-Nite",
+            "Season": "01",
+            "Episode": "05"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "The Justice Society",
+            "Season": "01",
+            "Episode": "06"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Shiv: Part 1",
+            "Season": "01",
+            "Episode": "07"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Shiv: Part 2",
+            "Season": "01",
+            "Episode": "08"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Shiv Part Two",
+            "Season": "01",
+            "Episode": "08"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Brainwave",
+            "Season": "01",
+            "Episode": "09"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Brainwave Jr.",
+            "Season": "01",
+            "Episode": "10"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Stars & S.T.R.I.P.E.: Part 1",
+            "Season": "01",
+            "Episode": "12"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Stars & S.T.R.I.P.E. Part One",
+            "Season": "01",
+            "Episode": "12"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Stars & S.T.R.I.P.E. Part Two",
+            "Season": "01",
+            "Episode": "13"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Stars & S.T.R.I.P.E.: Part 2",
+            "Season": "01",
+            "Episode": "13"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "Whatever Happened to Kate Kane?",
+            "Season": "02",
+            "Episode": "01"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "Prior Criminal History",
+            "Season": "02",
+            "Episode": "02"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "Bat Girl Magic!",
+            "Season": "02",
+            "Episode": "03"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Reconstruction: Chapter One: Collateral Damage",
+            "Season": "04",
+            "Episode": "01"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "Fair Skin, Blue Eyes",
+            "Season": "02",
+            "Episode": "04"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Reconstruction: Chapter Two: Unacceptable Losses",
+            "Season": "04",
+            "Episode": "02"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "Gore on Canvas",
+            "Season": "02",
+            "Episode": "05"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Reconstruction: Chapter Three: Despite All My Rage...",
+            "Season": "04",
+            "Episode": "03"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "Pilot",
+            "Season": "01",
+            "Episode": "01"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "Do Not Resuscitate",
+            "Season": "02",
+            "Episode": "06"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Reconstruction: Chapter Four: A Light in the Darkness",
+            "Season": "04",
+            "Episode": "04"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "All's Wells That Ends Wells",
+            "Season": "07",
+            "Episode": "01"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "Heritage",
+            "Season": "01",
+            "Episode": "02"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Ruin: Chapter One: Picking Up the Pieces",
+            "Season": "04",
+            "Episode": "05"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "The Speed of Thought",
+            "Season": "07",
+            "Episode": "02"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "The Perks of Not Being a Wallflower",
+            "Season": "01",
+            "Episode": "03"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "It's Best You Stop Digging",
+            "Season": "02",
+            "Episode": "07"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Ruin: Chapter Two: Theseus's Ship",
+            "Season": "04",
+            "Episode": "06"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Mother",
+            "Season": "07",
+            "Episode": "03"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "Haywire",
+            "Season": "01",
+            "Episode": "04"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "Survived Much Worse",
+            "Season": "02",
+            "Episode": "08"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Central City Strong",
+            "Season": "07",
+            "Episode": "04"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "The Best of Smallville",
+            "Season": "01",
+            "Episode": "05"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "Rule #1",
+            "Season": "02",
+            "Episode": "09"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Fear Me",
+            "Season": "07",
+            "Episode": "05"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Rebirth",
+            "Season": "06",
+            "Episode": "01"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "The One With The Nineties",
+            "Season": "07",
+            "Episode": "06"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "A Few Good Women",
+            "Season": "06",
+            "Episode": "02"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "Time Off for Good Behavior",
+            "Season": "02",
+            "Episode": "10"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "Painkiller",
+            "Season": "04",
+            "Episode": "07"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Growing Pains",
+            "Season": "07",
+            "Episode": "07"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Phantom Menaces",
+            "Season": "06",
+            "Episode": "03"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "Arrive Alive",
+            "Season": "02",
+            "Episode": "11"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Ruin: Chapter Three: Things Fall Apart",
+            "Season": "04",
+            "Episode": "08"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Lost Souls",
+            "Season": "06",
+            "Episode": "04"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Ruin: Chapter Four: Lyding",
+            "Season": "04",
+            "Episode": "09"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Prom Night!",
+            "Season": "06",
+            "Episode": "05"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "Initiate Self-Destruct",
+            "Season": "02",
+            "Episode": "12"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Ground Control to Sara Lance",
+            "Season": "06",
+            "Episode": "01"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Reunification: Chapter One: Revelations",
+            "Season": "04",
+            "Episode": "10"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "The People v. Killer Frost",
+            "Season": "07",
+            "Episode": "08"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Prom Again!",
+            "Season": "06",
+            "Episode": "06"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "I'll Give You a Clue",
+            "Season": "02",
+            "Episode": "13"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Meat: The Legends",
+            "Season": "06",
+            "Episode": "02"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Reunification: Chapter Two: Trial and Errors",
+            "Season": "04",
+            "Episode": "11"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Timeless",
+            "Season": "07",
+            "Episode": "09"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Fear Knot",
+            "Season": "06",
+            "Episode": "07"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "And Justice For All",
+            "Season": "02",
+            "Episode": "14"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "The Ex-Factor",
+            "Season": "06",
+            "Episode": "03"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Resurrection: Chapter One: Crossroads",
+            "Season": "04",
+            "Episode": "12"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Family Matters, Part 1",
+            "Season": "07",
+            "Episode": "10"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "Broken Trust",
+            "Season": "01",
+            "Episode": "06"
+        },
+        {
+            "Series": "Black Lightning",
+            "Title": "The Book of Resurrection: Chapter Two: Closure",
+            "Season": "04",
+            "Episode": "13"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Family Matters, Part 2",
+            "Season": "07",
+            "Episode": "11"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Bay of Squids",
+            "Season": "06",
+            "Episode": "04"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "Man of Steel",
+            "Season": "01",
+            "Episode": "07"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "Holding the Wrench",
+            "Season": "01",
+            "Episode": "08"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "Armed and Dangerous",
+            "Season": "02",
+            "Episode": "15"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "The Satanist's Apprentice",
+            "Season": "06",
+            "Episode": "05"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Good-Bye Vibrations",
+            "Season": "07",
+            "Episode": "12"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "Loyal Subjekts",
+            "Season": "01",
+            "Episode": "09"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "Rebirth",
+            "Season": "02",
+            "Episode": "16"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Bishop's Gambit",
+            "Season": "06",
+            "Episode": "06"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Masquerade",
+            "Season": "07",
+            "Episode": "13"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "O Mother, Where Art Thou?",
+            "Season": "01",
+            "Episode": "10"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "Kane, Kate",
+            "Season": "02",
+            "Episode": "17"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Back to the Finale: Part II",
+            "Season": "06",
+            "Episode": "07"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Rayo de Luz",
+            "Season": "07",
+            "Episode": "14"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "A Brief Reminiscence In-Between Cataclysmic Events",
+            "Season": "01",
+            "Episode": "11"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "Power",
+            "Season": "02",
+            "Episode": "18"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Stressed Western",
+            "Season": "06",
+            "Episode": "08"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Enemy At the Gates",
+            "Season": "07",
+            "Episode": "15"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "P.O.W.",
+            "Season": "07",
+            "Episode": "16"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "This is Gus",
+            "Season": "06",
+            "Episode": "09"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Heart of the Matter, Part 1",
+            "Season": "07",
+            "Episode": "17"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "Through the Valley of Death",
+            "Season": "01",
+            "Episode": "12"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Bad Blood",
+            "Season": "06",
+            "Episode": "10"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Heart of the Matter, Part 2",
+            "Season": "07",
+            "Episode": "18"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "Fail Safe",
+            "Season": "01",
+            "Episode": "13"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "The Final Frame",
+            "Season": "06",
+            "Episode": "11"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Summer School: Chapter One",
+            "Season": "02",
+            "Episode": "01"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "The Eradicator",
+            "Season": "01",
+            "Episode": "14"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Bored On Board Onboard",
+            "Season": "06",
+            "Episode": "12"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Summer School: Chapter Two",
+            "Season": "02",
+            "Episode": "02"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "Last Sons of Krypton",
+            "Season": "01",
+            "Episode": "15"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Silence of the Sonograms",
+            "Season": "06",
+            "Episode": "13"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Welcome Back, Kara!",
+            "Season": "06",
+            "Episode": "08"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Summer School: Chapter Three",
+            "Season": "02",
+            "Episode": "03"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "There Will Be Brood",
+            "Season": "06",
+            "Episode": "14"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Dream Weaver",
+            "Season": "06",
+            "Episode": "09"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Summer School: Chapter Four",
+            "Season": "02",
+            "Episode": "04"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "The Fungus Amongus",
+            "Season": "06",
+            "Episode": "15"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Still I Rise",
+            "Season": "06",
+            "Episode": "10"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Summer School: Chapter Five",
+            "Season": "02",
+            "Episode": "05"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Mxy in the Middle",
+            "Season": "06",
+            "Episode": "11"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Summer School: Chapter Six",
+            "Season": "02",
+            "Episode": "06"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Blind Spots",
+            "Season": "06",
+            "Episode": "12"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Summer School: Chapter Seven",
+            "Season": "02",
+            "Episode": "07"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "The Gauntlet",
+            "Season": "06",
+            "Episode": "13"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Summer School: Chapter Eight",
+            "Season": "02",
+            "Episode": "08"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Magical Thinking",
+            "Season": "06",
+            "Episode": "14"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Summer School: Chapter Nine",
+            "Season": "02",
+            "Episode": "09"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Hope for Tomorrow",
+            "Season": "06",
+            "Episode": "15"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Summer School: Chapter Ten",
+            "Season": "02",
+            "Episode": "10"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "Mad As a Hatter",
+            "Season": "03",
+            "Episode": "01"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "The Bullet Blondes",
+            "Season": "07",
+            "Episode": "01"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Nightmare in National City",
+            "Season": "06",
+            "Episode": "16"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Summer School: Chapter Eleven",
+            "Season": "02",
+            "Episode": "11"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "Loose Tooth",
+            "Season": "03",
+            "Episode": "02"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "The Need for Speed",
+            "Season": "07",
+            "Episode": "02"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "I Believe in a thing Called Love",
+            "Season": "06",
+            "Episode": "17"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Summer School: Chapter Twelve",
+            "Season": "02",
+            "Episode": "12"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "Freeze",
+            "Season": "03",
+            "Episode": "03"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "wvrdr_error_100 not found",
+            "Season": "07",
+            "Episode": "03"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Truth or Consequences",
+            "Season": "06",
+            "Episode": "18"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Summer School: Chapter Thirteen",
+            "Season": "02",
+            "Episode": "13"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "Antifreeze",
+            "Season": "03",
+            "Episode": "04"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Speakeasy Does It",
+            "Season": "07",
+            "Episode": "04"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "The Last Gauntlet",
+            "Season": "06",
+            "Episode": "19"
+        },
+        {
+            "Series": "Supergirl",
+            "Title": "Kara",
+            "Season": "06",
+            "Episode": "20"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "A Lesson From Professor Pyg",
+            "Season": "03",
+            "Episode": "05"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "It's a Mad, Mad, Mad, Mad Scientist",
+            "Season": "07",
+            "Episode": "05"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Armageddon, Part 1",
+            "Season": "08",
+            "Episode": "01"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "How Does Your Garden Grow?",
+            "Season": "03",
+            "Episode": "06"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Deus Ex Latrina",
+            "Season": "07",
+            "Episode": "06"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Armageddon, Part 2",
+            "Season": "08",
+            "Episode": "02"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "Pick Your Poison",
+            "Season": "03",
+            "Episode": "07"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "A Woman's Place is in the War Effort!",
+            "Season": "07",
+            "Episode": "07"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Armageddon, Part 3",
+            "Season": "08",
+            "Episode": "03"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Armageddon, Part 4",
+            "Season": "08",
+            "Episode": "04"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Armageddon, Part 5",
+            "Season": "08",
+            "Episode": "05"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "What Lies Beneath",
+            "Season": "02",
+            "Episode": "01"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "Trust Destiny",
+            "Season": "03",
+            "Episode": "08"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Paranoid Android",
+            "Season": "07",
+            "Episode": "08"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "The Ties That Bind",
+            "Season": "02",
+            "Episode": "02"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "Meet Your Maker",
+            "Season": "03",
+            "Episode": "09"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Lowest Common Demoninator",
+            "Season": "07",
+            "Episode": "09"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "The Thing in the Mines",
+            "Season": "02",
+            "Episode": "03"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "Toxic",
+            "Season": "03",
+            "Episode": "10"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "The Fixed Point",
+            "Season": "07",
+            "Episode": "10"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "The Inverse Method",
+            "Season": "02",
+            "Episode": "04"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "Broken Toys",
+            "Season": "03",
+            "Episode": "11"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Rage Against the Machines",
+            "Season": "07",
+            "Episode": "11"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "Girl... You'll Be a Woman, Soon",
+            "Season": "02",
+            "Episode": "05"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "We're All Mad Here",
+            "Season": "03",
+            "Episode": "12"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Too Legit to Quit",
+            "Season": "07",
+            "Episode": "12"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "Tried and True",
+            "Season": "02",
+            "Episode": "06"
+        },
+        {
+            "Series": "Batwoman",
+            "Title": "We Having Fun Yet?",
+            "Season": "03",
+            "Episode": "13"
+        },
+        {
+            "Series": "DC's Legends of Tomorrow",
+            "Title": "Knocked Down, Knocked Up",
+            "Season": "07",
+            "Episode": "13"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "Anti-Hero",
+            "Season": "02",
+            "Episode": "07"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Impulsive Excessive Disorder",
+            "Season": "08",
+            "Episode": "06"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Lockdown",
+            "Season": "08",
+            "Episode": "07"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "Into Oblivion",
+            "Season": "02",
+            "Episode": "08"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "The Fire Next Time",
+            "Season": "08",
+            "Episode": "08"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "30 Days and 30 Nights",
+            "Season": "02",
+            "Episode": "09"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Phantoms",
+            "Season": "08",
+            "Episode": "09"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Reckless",
+            "Season": "08",
+            "Episode": "10"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Resurrection",
+            "Season": "08",
+            "Episode": "11"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "Bizarros in a Bizarro World",
+            "Season": "02",
+            "Episode": "10"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Death Rises",
+            "Season": "08",
+            "Episode": "12"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "Truth and Consequences",
+            "Season": "02",
+            "Episode": "11"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Death Falls",
+            "Season": "08",
+            "Episode": "13"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Funeral for a Friend",
+            "Season": "08",
+            "Episode": "14"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Into the Still Force",
+            "Season": "08",
+            "Episode": "15"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "The Curious Case of Bartholomew Allen",
+            "Season": "08",
+            "Episode": "16"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "Lies That Bind",
+            "Season": "02",
+            "Episode": "12"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "All Is Lost",
+            "Season": "02",
+            "Episode": "13"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Keep It Dark",
+            "Season": "08",
+            "Episode": "17"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "The Man in the Yellow Tie",
+            "Season": "08",
+            "Episode": "18"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "Worlds War Bizarre",
+            "Season": "02",
+            "Episode": "14"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Negative, Part One",
+            "Season": "08",
+            "Episode": "19"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "Waiting for Superman",
+            "Season": "02",
+            "Episode": "15"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Negative, Part Two",
+            "Season": "08",
+            "Episode": "20"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Frenemies \u2013 Chapter One: The Murder",
+            "Season": "03",
+            "Episode": "01"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Frenemies \u2013 Chapter Two: The Suspects",
+            "Season": "03",
+            "Episode": "02"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Frenemies \u2013 Chapter Three: The Blackmail",
+            "Season": "03",
+            "Episode": "03"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Frenemies \u2013 Chapter Four: The Evidence",
+            "Season": "03",
+            "Episode": "04"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Frenemies \u2013 Chapter Five: The Thief",
+            "Season": "03",
+            "Episode": "05"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Frenemies \u2013 Chapter Six: The Betrayal",
+            "Season": "03",
+            "Episode": "06"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Frenemies \u2013 Chapter Seven: Infinity Inc. Part One",
+            "Season": "03",
+            "Episode": "07"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Frenemies \u2013 Chapter Eight: Infinity Inc. Part Two",
+            "Season": "03",
+            "Episode": "08"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Frenemies \u2013 Chapter Nine: The Monsters",
+            "Season": "03",
+            "Episode": "09"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Frenemies \u2013 Chapter Ten: The Killer",
+            "Season": "03",
+            "Episode": "10"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Frenemies \u2013 Chapter Eleven: The Haunting",
+            "Season": "03",
+            "Episode": "11"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Frenemies \u2013 Chapter Twelve: The Last Will and Testament of Sylvester Pemberton",
+            "Season": "03",
+            "Episode": "12"
+        },
+        {
+            "Series": "Stargirl",
+            "Title": "Frenemies \u2013 Chapter Thirteen: The Reckoning",
+            "Season": "03",
+            "Episode": "13"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Wednesday Ever After",
+            "Season": "09",
+            "Episode": "01"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Hear No Evil",
+            "Season": "09",
+            "Episode": "02"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Rogues of War",
+            "Season": "09",
+            "Episode": "03"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "The Mask of the Red Death, Part 1",
+            "Season": "09",
+            "Episode": "04"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "The Mask of the Red Death, Part 2",
+            "Season": "09",
+            "Episode": "05"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "Closer",
+            "Season": "03",
+            "Episode": "01"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "The Good, the Bad, and the Lucky",
+            "Season": "09",
+            "Episode": "06"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "Uncontrollable Forces",
+            "Season": "03",
+            "Episode": "02"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "In Cold Blood",
+            "Season": "03",
+            "Episode": "03"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Wildest Dreams",
+            "Season": "09",
+            "Episode": "07"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "Too Close to Home",
+            "Season": "03",
+            "Episode": "04"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "Partners in Time",
+            "Season": "09",
+            "Episode": "08"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "Head On",
+            "Season": "03",
+            "Episode": "05"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "Of Sound Mind",
+            "Season": "03",
+            "Episode": "06"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "It's My Party and I'll Die If I Want To",
+            "Season": "09",
+            "Episode": "09"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "Forever and Always",
+            "Season": "03",
+            "Episode": "07"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "A New World, Part One",
+            "Season": "09",
+            "Episode": "10"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "Guess Who's Coming to Dinner",
+            "Season": "03",
+            "Episode": "08"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "A New World, Part Two",
+            "Season": "09",
+            "Episode": "11"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "A New World, Part Three",
+            "Season": "09",
+            "Episode": "12"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "The Dress",
+            "Season": "03",
+            "Episode": "09"
+        },
+        {
+            "Series": "The Flash",
+            "Title": "A New World, Part Four",
+            "Season": "09",
+            "Episode": "13"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "Collision Course",
+            "Season": "03",
+            "Episode": "10"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "Complications",
+            "Season": "03",
+            "Episode": "11"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "Injustice",
+            "Season": "03",
+            "Episode": "12"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "What Kills You Only Makes You Stronger",
+            "Season": "03",
+            "Episode": "13"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "The End & The Beginning",
+            "Season": "04",
+            "Episode": "01"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "A World Without",
+            "Season": "04",
+            "Episode": "02"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "Always My Hero",
+            "Season": "04",
+            "Episode": "03"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "A Perfectly Good Wedding",
+            "Season": "04",
+            "Episode": "04"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "Break the Cycle",
+            "Season": "04",
+            "Episode": "05"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "When the Lights Come On",
+            "Season": "04",
+            "Episode": "06"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "A Regular Guy",
+            "Season": "04",
+            "Episode": "07"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "Sharp Dressed Man",
+            "Season": "04",
+            "Episode": "08"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "To Live and Die Again",
+            "Season": "04",
+            "Episode": "09"
+        },
+        {
+            "Series": "Superman & Lois",
+            "Title": "It Went By So Fast",
+            "Season": "04",
+            "Episode": "10"
+        }
+    ],
+    "Series": {
+        "Arrow": "https://www.netflix.com/title/70242081",
+        "The Flash": "https://www.netflix.com/title/80027042",
+        "Supergirl": "https://www.netflix.com/title/80072227",
+        "DC's Legends of Tomorrow": "https://www.netflix.com/title/80100172",
+        "Black Lightning": "https://www.netflix.com/title/80160840",
+        "Batwoman": "https://www.netflix.com/title/81025217",
+        "Superman & Lois": "https://www.netflix.com/title/81469021",
+        "Constantine": "https://www.netflix.com/title/70288064"
+    }
+}
