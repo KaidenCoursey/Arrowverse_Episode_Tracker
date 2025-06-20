@@ -1,5 +1,5 @@
 from flask import Flask, render_template
-from scrape import scrape_arrowverse_episodes
+from .scrape import scrape_arrowverse_episodes
 
 app = Flask(__name__)
 
